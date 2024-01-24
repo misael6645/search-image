@@ -1,0 +1,10 @@
+.header1 {
+  background-color: papayawhip;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  box-shadow: 1px 2px 5px rgb(0,0,0, 0.3);
+  z-index: 3;
+  position: relative;
+}
